@@ -5,4 +5,4 @@
 // LIST OF DIFFERENT SOLUTIONS CONTAINED IN THIS ARCH DESIGNS. //
 
 * Lists of designs contained here include:
-* * K8s designs
+     * K8s designs
